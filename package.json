@@ -1,0 +1,12 @@
+{
+  "name": "test-express-request-logger",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
