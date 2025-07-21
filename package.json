@@ -1,12 +1,18 @@
 {
   "name": "test-express-request-logger",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.1.1",
+  "description": "For collecting Express request logs in JSON format",
   "type": "module",
+  "main": "index.js",
   "exports": {
     ".": "./index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deepanghan05/test-package.git"
+  },
+  "keywords": ["express", "logger", "middleware", "request-logger", "javascript"],
+  "author": "Deep",
+  "license": "MIT"
 }
+
