@@ -27,6 +27,19 @@ app.listen(3000, () => {
 });
 ```
 
+## Example Output
+
+Creates a `data.json` file and stores objects like this:
+
+```json
+{
+  "route": "/",
+  "method": "GET",
+  "ip": "127.0.0.1",
+  "timestamp": "2025-07-21T15:34:56.123Z"
+}
+```
+
 ## License
 
 MIT

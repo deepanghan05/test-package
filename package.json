@@ -1,6 +1,6 @@
 {
   "name": "test-express-request-logger",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "For collecting Express request logs in JSON format",
   "type": "module",
   "main": "index.js",
